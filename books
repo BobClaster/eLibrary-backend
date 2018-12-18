@@ -1,0 +1,73 @@
+ {
+        "barcode": 9789661468299,
+        "title": "Хроніки нарнії. Небіж чаклуна",
+        "author": {
+            "first_name": "Клайв",
+            "last_name": "Стейплз"
+        },
+        "description": ""
+    },
+    {
+        "barcode": 9789661447294,
+        "title": "Хроніки Нарнії. Принц Каспіан",
+        "author": {
+            "first_name": "Клайв",
+            "last_name": "Стейплз"
+        },
+        "description": ""
+    },
+    {
+        "barcode": 9789661476621,
+        "title": "Містер Мерседес",
+        "author": {
+            "first_name": "Стівен",
+            "last_name": "Кінг"
+        },
+        "description": ""
+    },
+    {
+        "barcode": 9789661450706,
+        "title": "Крізь час",
+        "author": {
+            "first_name": "Стівен",
+            "last_name": "Кінг"
+        },
+        "description": "Темна вежа ІІ"
+    },
+    {
+        "barcode": 9786171292252,
+        "title": "Нездоланний",
+        "author": {
+            "first_name": "Лі",
+            "last_name": "Чайлд"
+        },
+        "description": ""
+    },
+    {
+        "barcode": 9786175380604,
+        "title": "У вогні",
+        "author": {
+            "first_name": "Сюзанна",
+            "last_name": "Колінз"
+        },
+        "description": ""
+    },
+    {
+        "barcode": 9786171201422,
+        "title": "Народження країни. Від краю до держави",
+        "author": {
+            "first_name": "СС",
+            "last_name": "Скляр"
+        },
+        "description": "Назва, символіка, територія і кордони"
+    },
+    {
+        "barcode": 9786171214859,
+        "title": "Маг",
+        "author": {
+            "first_name": "Джон",
+            "last_name": "Фаулз"
+        },
+        "description": ""
+    }
+]
